@@ -1,2 +1,4 @@
 # portfolio-website-HTML
-This will be a portfolio website create only with HTML
+Portfolio website is deployed using Netlify. 
+
+Visit ece.codes to see live.
